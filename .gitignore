@@ -1,0 +1,4 @@
+bin/
+build/
+project/codeblocks/*
+.sconsign.dblite

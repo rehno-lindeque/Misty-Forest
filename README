@@ -1,0 +1,23 @@
+Misty Forest
+------------
+
+A small demo walking through a mysterious forest with wisps floating around...
+
+License
+-------
+Copyright (C) 2007-2011, Rehno Lindeque.
+
+This demo is opensource. You may redistribute or modify it under the terms of the MIT license or BSD3... whichever floats your boat.
+
+Usage
+-----
+
+Keys:
+w: Move avatar (and camera) forwards
+s: Move avatar (and camera) backwards
+a: Rotate avatar (and camera) left
+d: Rotate avatar (and camera) right
+r: Zoom in in 3rd person view
+f: Zoom out in 3rd person view
+spacebar: switch from 1st person to 3rd person view and vice versa
+
